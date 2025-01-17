@@ -1,0 +1,49 @@
+body {
+  background-color: #f7f7f7;
+  font-family: 'Arial', sans-serif;
+}
+.stButton > button {
+  background-color: #34C759;
+  color: white;
+  border-radius: 5px;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+}
+.stButton > button:hover {
+  background-color: #FF0000;
+  color: #ffffff;
+}
+.stFileUploader {
+  border: 2px solid #FFC107;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #000000;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+  color: #8E24AA;
+  text-align: center;
+}
+.stSidebar {
+  background-color: #03055B;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.stSidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.stSidebar ul li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+.stSidebar ul li:hover {
+  background-color: #f7f7f7;
+}
+.stSidebar ul li a {
+  text-decoration: none;
+  color: #ffffff;
+}
