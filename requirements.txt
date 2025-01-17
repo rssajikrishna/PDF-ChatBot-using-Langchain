@@ -9,3 +9,4 @@ pandas
 python-dotenv
 faiss-cpu
 PyMuPDF
+langchain-community>=0.0.2
