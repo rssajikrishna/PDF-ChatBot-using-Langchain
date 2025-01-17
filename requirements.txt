@@ -4,9 +4,9 @@ langchain
 langchain-google-genai
 google-generativeai
 Pillow
-tabula-py
 pandas
 python-dotenv
 faiss-cpu
 PyMuPDF
 langchain-community>=0.0.2
+pdfplumber
